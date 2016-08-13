@@ -1,6 +1,6 @@
 # Universal-Glucometer
 Glucometer that is capable of using test strips from any brand of glucose meter.
-Steps done up to 7/2/16
+Steps done up to 8/12/16
 * Downloaded and installed MPLABX
 * Downloaded and installed XC8 (C-compiler)
 * Verfied PICkit3 can upload program to PIC
